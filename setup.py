@@ -7,6 +7,6 @@ setup(
     url='',
     license='',
     author='Rahul Pudurkar',
-    author_email='rahulpudurkar68@ymail.com',
+    author_email='rahulpudurkar68@gmail.com',
     description='HospitalManagementSystem for college python course'
 )
