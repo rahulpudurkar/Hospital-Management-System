@@ -103,10 +103,6 @@ We welcome contributions to the Hospital Management System project! To contribut
 
 Please ensure your code follows the project's coding standards and includes appropriate tests.
 
-## License
-
-This project is licensed under the MIT License. See the License file for details.
-
 ## Contact
 
 For questions or suggestions, feel free to contact me:
