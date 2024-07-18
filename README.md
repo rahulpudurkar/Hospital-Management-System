@@ -115,7 +115,3 @@ For questions or suggestions, feel free to contact me:
 - Email: [your-email@example.com](mailto:your-email@example.com)
 - GitHub: [rahulpudurkar](https://github.com/rahulpudurkar)
 - Send your concerns or feedback to: rahulpudurkar68@gmail.com
-
----
-
-Thank you for using the Hospital Management System! We hope it makes managing your healthcare institution easier and more efficient.
