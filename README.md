@@ -10,7 +10,6 @@ Welcome to the Hospital Management System project! This repository contains the 
 - [Configuration](#configuration)
 - [Database Schema](#database-schema)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview
